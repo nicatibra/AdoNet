@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\AdoNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{489D76A4-0481-419D-AB23-A8A2858F25DE}|AdoNet\\AdoNet.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\adonet\\adonet\\dal\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489D76A4-0481-419D-AB23-A8A2858F25DE}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\dal\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489D76A4-0481-419D-AB23-A8A2858F25DE}|AdoNet\\AdoNet.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\adonet\\adonet\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489D76A4-0481-419D-AB23-A8A2858F25DE}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489D76A4-0481-419D-AB23-A8A2858F25DE}|AdoNet\\AdoNet.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\adonet\\adonet\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489D76A4-0481-419D-AB23-A8A2858F25DE}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489D76A4-0481-419D-AB23-A8A2858F25DE}|AdoNet\\AdoNet.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\c#\\tasksforhome\\adonet\\adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{489D76A4-0481-419D-AB23-A8A2858F25DE}|AdoNet\\AdoNet.csproj|solutionrelative:adonet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\AdoNet\\AdoNet\\Program.cs",
+              "RelativeDocumentMoniker": "AdoNet\\Program.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\AdoNet\\AdoNet\\Program.cs",
+              "RelativeToolTip": "AdoNet\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:19:38.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sql.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\AdoNet\\AdoNet\\DAL\\Sql.cs",
+              "RelativeDocumentMoniker": "AdoNet\\DAL\\Sql.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\AdoNet\\AdoNet\\DAL\\Sql.cs",
+              "RelativeToolTip": "AdoNet\\DAL\\Sql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:25:11.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\AdoNet\\AdoNet\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "AdoNet\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\AdoNet\\AdoNet\\Services\\StudentService.cs",
+              "RelativeToolTip": "AdoNet\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:31:03.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\AdoNet\\AdoNet\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "AdoNet\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\C#\\TasksForHome\\AdoNet\\AdoNet\\Models\\Student.cs",
+              "RelativeToolTip": "AdoNet\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:30:00.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
